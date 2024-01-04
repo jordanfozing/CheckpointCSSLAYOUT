@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo{
+    width: 268px; 
+    height: 33px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+}
+
+ul{
+    list-style: none;
+    color: #ababab;
+   
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+.jeff{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+h1{
+color: rgb(0, 128, 98);
+font-family: Work Sans,Arial,sans-serif;
+}
+
+.jordan{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    width: 500px;
+    color: gray;
+    line-height: 40px;
+}
+li{
+    list-style: none;
+    color: gray;
+    font-weight: bold;
+}
+#jay{
+    color: #00b39b;
+}
